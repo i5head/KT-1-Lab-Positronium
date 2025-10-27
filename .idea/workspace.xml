@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Some import functions">
+    <list default="true" id="ea7f1ece-269d-42b0-8c3e-e92159760062" name="Changes" comment="Created plots of the data so far">
       <change afterPath="$PROJECT_DIR$/Monday_Energy_left_1275_gate.Spe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Monday_Energy_left_nogate.Spe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Monday_Energy_right_511_gate.Spe" afterDir="false" />
@@ -79,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761572121348</updated>
       <workItem from="1761572122724" duration="1809000" />
-      <workItem from="1761573947051" duration="1182000" />
+      <workItem from="1761573947051" duration="1733000" />
     </task>
     <task id="LOCAL-00001" summary="Initial creation">
       <option name="closed" value="true" />
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761573899264</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created plots of the data so far">
+      <option name="closed" value="true" />
+      <created>1761575455901</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761575455901</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial creation" />
     <MESSAGE value="Some import functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some import functions" />
+    <MESSAGE value="Created plots of the data so far" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created plots of the data so far" />
   </component>
 </project>
